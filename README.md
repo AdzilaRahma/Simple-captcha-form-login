@@ -1,11 +1,10 @@
 > Need Simple login Page Mikrotik? [Available here!](https://github.com/AdzilaRahma/Simple-captcha-form-login)
 
-# Simple-captcha-form-login
+# Bootstrap 4 Login Page Template
 
 [![GitHub license](https://github.com/AdzilaRahma/Simple-captcha-form-login/blob/main/LICENSE)
-![logo](https://github.com/AdzilaRahma/Simple-captcha-form-login/blob/main/img/risma.png)
-![favicon](https://github.com/AdzilaRahma/Simple-captcha-form-login/blob/main/img/favicon.png)
-![user](https://github.com/AdzilaRahma/Simple-captcha-form-login/blob/main/img/user.png)
+![Android](https://ibb.co/WgtjmsF)
+![Dekstop](https://ibb.co/hLQscGW)
 
 My Login is a Bootstrap 5 Simple Login Page Mikrotik, you can use it as you wish and it's free for personal or commercial use.
 
