@@ -3,8 +3,8 @@
 # Simple captcha form login
 
 [![GitHub license](https://github.com/AdzilaRahma/Simple-captcha-form-login/blob/main/LICENSE)
-![Android](https://github.com/AdzilaRahma/Simple-captcha-form-login/blob/main/Preview/IMG_20230613_220253.jpg)
-![Dekstop](https://github.com/AdzilaRahma/Simple-captcha-form-login/blob/main/Preview/IMG_20230613_220202.jpg)
+![Android](https://github.com/AdzilaRahma/Simple-captcha-form-login/blob/main/Preview/Android.jpg)
+![Dekstop](https://github.com/AdzilaRahma/Simple-captcha-form-login/blob/main/Preview/Dekstop.jpg)
 My Login is a Bootstrap 5 Simple Login Page Mikrotik, you can use it as you wish and it's free for personal or commercial use.
 
 ![Preview](https://ibb.co/WgtjmsF)(https://ibb.co/hLQscGW)
